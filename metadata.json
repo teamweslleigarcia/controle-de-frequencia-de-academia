@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Frequência de Artes Marciais",
+  "description": "Um aplicativo para professores de artes marciais controlarem a frequência de seus alunos e para administradores gerenciarem professores, alunos e turmas.",
+  "requestFramePermissions": []
+}
